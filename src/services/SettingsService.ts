@@ -7,7 +7,6 @@ interface ISettingsCreate {
 }
 
 class SettingsService {
-
     async create({ chat, username } : ISettingsCreate) {
         const settingsRepository = getCustomRepository(SettingsRepository);
 
