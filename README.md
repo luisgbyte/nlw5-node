@@ -14,4 +14,4 @@ Chat is a project developed during the Rocketseat NLW week, which allows real-ti
 - Run `yarn typeorm migration: run` to create the database tables.
 - Finally, run `yarn dev` to start the application.
 
-After that, the application must be available at `localhost: 3333`;
+After that, the application must be available at `http://localhost:3333`;
