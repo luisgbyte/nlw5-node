@@ -11,7 +11,7 @@ Chat is a project developed during the Rocketseat NLW week, which allows real-ti
 
 ## :checkered_flag: How to run the project?
 - Clone the repository
-- Run `yarn typeorm migration: run` to create the database tables.
+- Run `yarn typeorm migration:run` to create the database tables.
 - Finally, run `yarn dev` to start the application.
 
 After that, the application must be available at `http://localhost:3333`;
