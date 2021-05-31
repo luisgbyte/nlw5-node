@@ -300,7 +300,7 @@ input[type="text"]:focus {
   margin: 12px;
   display: flex;
   flex-direction: column;
-
+  justify-content: flex-end;
   border-radius: 10px;
 
   font-family: "Roboto", sans-serif;
